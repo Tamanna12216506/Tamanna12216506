@@ -15,26 +15,33 @@ I enjoy working on projects that strengthen my understanding of **OOPs, Collecti
 
 ### 💡 Core Java & Programming
 <p>
-  <img src="https://skillicons.dev/icons?i=java" height="40"/> <b>Java</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" height="40"/> <b>OOPs</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" height="40"/> <b>Core Java</b> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=code" height="40"/> <b>Collections</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=error" height="40"/> <b>Exception Handling</b>
+  <img src="https://skillicons.dev/icons?i=error" height="40"/> <b>Exception Handling</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" height="40"/> <b>File Handling</b>
 </p>
 
-### ⚙️ Backend & Logic
-<p>
-  <img src="https://skillicons.dev/icons?i=java" height="40"/> <b>File Handling</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=code" height="40"/> <b>Custom Exceptions</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=code" height="40"/> <b>equals() & hashCode()</b>
-</p>
-
-### 🌐 Web & Tools
+### 🌐 Frontend Technologies
 <p>
   <img src="https://skillicons.dev/icons?i=html" height="40"/> <b>HTML</b> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=css" height="40"/> <b>CSS</b> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=javascript" height="40"/> <b>JavaScript</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" height="40"/> <b>React</b>
+</p>
+
+### 🗄️ Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=php" height="40"/> <b>PHP</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=laravel" height="40"/> <b>Laravel</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" height="40"/> <b>SQL</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40"/> <b>MongoDB</b>
+</p>
+
+### ⚙️ Tools & Deployment
+<p>
   <img src="https://skillicons.dev/icons?i=git" height="40"/> <b>Git</b> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" height="40"/> <b>GitHub</b>
+  <img src="https://skillicons.dev/icons?i=github" height="40"/> <b>GitHub</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=render" height="40"/> <b>Render</b>
 </p>
 
 
