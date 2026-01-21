@@ -15,13 +15,30 @@ Currently, I am improving my problem-solving skills by developing **menu-driven 
 ---
 
 ## 🛠️ Technical Skills
-- **Core Java**
-- OOPs (Encapsulation, Inheritance, Polymorphism, Abstraction)
-- Collections Framework (ArrayList, HashMap)
-- Exception Handling & Custom Exceptions
-- File Handling
-- Basic HTML, CSS, JavaScript
-- Git & GitHub
+
+### 💡 Core Java & Programming
+<p>
+  <img src="https://skillicons.dev/icons?i=java" height="40"/> <b>Java</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="40"/> <b>OOPs</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=code" height="40"/> <b>Collections</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=error" height="40"/> <b>Exception Handling</b>
+</p>
+
+### ⚙️ Backend & Logic
+<p>
+  <img src="https://skillicons.dev/icons?i=java" height="40"/> <b>File Handling</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=code" height="40"/> <b>Custom Exceptions</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=code" height="40"/> <b>equals() & hashCode()</b>
+</p>
+
+### 🌐 Web & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=html" height="40"/> <b>HTML</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" height="40"/> <b>CSS</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=javascript" height="40"/> <b>JavaScript</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" height="40"/> <b>Git</b> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" height="40"/> <b>GitHub</b>
+</p>
 
 ---
 
@@ -29,9 +46,6 @@ Currently, I am improving my problem-solving skills by developing **menu-driven 
 
 🔹 **AI-Based Interview Prep Website**  
 A web-based application designed to help users prepare for technical interviews by providing interview questions, practice content, and structured learning support.
-
-**Concepts Used:**  
-HTML, CSS, JavaScript, basic AI-driven logic, interview-oriented content design.
 
 ---
 
@@ -45,25 +59,14 @@ A real-world Java project for managing water sales, billing, and validations wit
 
 ---
 
-🔹 **Core Java Practice**  
-Programs covering OOPs concepts, `equals()` & `hashCode()`, shallow vs deep copy, and exception handling.
 
----
 
 ## 📚 Currently Learning
 - Advanced Java concepts
 - Improving project structure & clean code practices
 - Interview-oriented Core Java preparation
 
----
 
-## 🤝 Connect With Me
-- 💼 LinkedIn: *(Add your LinkedIn link here)*
-- 📧 Email: *(Add your email if you want)*
-
----
-
-⭐ *Thank you for visiting my GitHub profile!*
 
 <!--
 **Tamanna12216506/Tamanna12216506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
